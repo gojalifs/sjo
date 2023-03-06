@@ -1,0 +1,17 @@
+{
+    "success": true,
+    "message": "Data Found",
+    "data": {
+        "user_id": 1,
+        "name": "Fajar",
+        "email": "fs684009@gmail.com",
+        "phone": "085876285280",
+        "birth": "1999-06-18",
+        "gender": "male",
+        "avatar_path": null,
+        "email_verified_at": null,
+        "phone_verified_at": null,
+        "is_banned": 0,
+        "is_inactive": 0
+    }
+}

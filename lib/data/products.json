@@ -1,0 +1,19 @@
+{
+    "success": true,
+    "message": "Success",
+    "data": [
+        {
+            "frameId": 1,
+            "name": "Zenndy",
+            "stock": 200,
+            "price": "200000.0000",
+            "material": "plastic",
+            "shape": "Oval",
+            "description": "tidak ada",
+            "pictPath": [
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWlR8V_IQNoRpzmrWtLZ3aMPQA7NZzsKn4XtGR7H05&s",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd-tQlZKLQYID-kA85ccOoeFD6ZxxYe_A7RBb1Km6w1EymnD4s1A6edBM6nBWG2RGggDE&usqp=CAU"
+            ]
+        }
+    ]
+}
